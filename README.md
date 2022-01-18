@@ -7,7 +7,7 @@
     width="80"
     alt="owl"
     src="https://raw.githubusercontent.com/testing-library/jest-dom/main/other/owl.png"
-  />
+  />a
 </a>
 
 <p>Custom jest matchers to test the state of the DOM</p>
